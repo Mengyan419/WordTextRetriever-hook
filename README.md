@@ -1,0 +1,2 @@
+# WordTextRetriever-hook
+这段代码是基于WPF框架开发的，当你在桌面打开一个App并用鼠标选中一段文字时，会自动复制粘贴呈现在TexBox控件上
